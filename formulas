@@ -1,0 +1,1 @@
+month number if formula = =IF(E2="jan",1,IF(E2="feb",2,IF(E2="mar",3,IF(E2="apr",4,IF(E2="may",5,IF(E2="jun",6,IF(E2="jul",7,IF(E2="aug",8,IF(E2="sep",9,IF(E2="oct",10,IF(E2="nov",11,IF(E2="dec",12))))))))))))
